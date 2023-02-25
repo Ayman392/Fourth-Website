@@ -1,0 +1,109 @@
+header, .container-fluid  {
+    background-color: rgb(176, 231, 176);
+    padding-bottom: 60px;
+}
+.headline {
+    padding: 0;
+}
+.Start-Logo img {
+        width: 150px;
+}
+.navbar-collapse {
+    flex-direction: row-reverse;
+}
+.navbar-nav a {
+    margin: 0 5px;
+    padding: 20px 0;
+}
+#sign-in {
+    padding: 14px 0;
+}
+.green-button {
+    color: white;
+    border: none;
+    background-color: #21B573;
+    border-radius: 33px;
+    padding: 6px 20px;
+}
+.carousel {
+    width: 40%;
+}
+.c-description {
+    margin: 50px 0;
+}
+.Illustration {
+    width: 554px;
+
+}
+.first-PAGE h5 {
+    color: #FD511A;
+}
+.first-PAGE h1 {
+    font-weight: bolder;
+    color: black;
+    margin: 20px 0;
+}
+span {
+    color: #21B573;
+}
+.first-PAGE p {
+    margin: 30px 0;
+}
+.second-half{
+    margin: 100px auto;
+}
+.catergories img {
+    width: 50px;
+}
+.catergories{
+    background-color: #F8FFFB; 
+    border-radius: 10px;  
+}
+.active {
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.Middle-page {
+    margin-bottom: 100px;
+}
+.calender {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+}
+.calender img {
+    width: 20px;
+    height: 20px;
+}
+.calenderrr {
+    display: flex;
+    color: dimgray;
+}
+.h-100 {
+    border: none;
+    box-shadow: 5px 10px 10px rgba(0,0,0,0.1); 
+}
+.Last-page {
+    margin-bottom: 200px;
+}
+.Last-page h1 {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+.conclution{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    margin: 50px 200px;
+    
+}
+.conclution img{
+    width: 80px;
+}
+.conclution p {
+    padding: 0 20px;
+}
+footer p{
+    color: #CDCDCD;
+    text-align: center;
+}
